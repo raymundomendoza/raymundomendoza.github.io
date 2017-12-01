@@ -10,6 +10,6 @@ Camera Effects
 
 This is my Camera Effects Project
 
-![picture_title](picture filename?raw=true "Optional Title")
+![Raymundo](https://github.com/raymundomendoza/raymundomendoza.github.io/blob/master/Raymundo.PNG?raw=true "Optional Title")
 
 ***
